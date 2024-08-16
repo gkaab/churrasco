@@ -10,7 +10,7 @@ p {
 }
 
 main {
-    background-image: url('/img/emerson-vieira-Mq1LDuswX2o-unsplash\ 1.png');
+    background-image: url(../img/emerson-vieira-Mq1LDuswX2o-unsplash\ 1.png);
     width: 100%;
     height: 87vh;
     background-repeat: no-repeat;
